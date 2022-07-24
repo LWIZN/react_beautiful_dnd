@@ -23,15 +23,15 @@ class App extends React.Component {
       todos: [
         {
           id: 1,
-          text: "Learn React",
+          text: "1",
         },
         {
           id: 2,
-          text: "Learn Redux",
+          text: "2",
         },
         {
           id: 3,
-          text: "Watch TV",
+          text: "3",
         },
       ],
     };
